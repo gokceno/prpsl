@@ -1,0 +1,14 @@
+title:
+subtitle:
+sections:
+  - title: "Amaç ve Proje Özeti"
+    template: project_summary
+    body: |
+      **Lorem Ipsum**
+      Lorem ipsum 
+  - template: services_provided
+    services:
+      - Proje Yönetimi
+      - İş Analizi
+      - Yazılım Geliştirme
+  
